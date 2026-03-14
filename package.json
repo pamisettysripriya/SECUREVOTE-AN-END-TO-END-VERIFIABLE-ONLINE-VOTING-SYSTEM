@@ -1,0 +1,8 @@
+{
+  "name": "securevote",
+  "version": "1.0.0",
+  "description": "E2E Verifiable Voting System",
+  "scripts": {
+    "setup": "cd frontend && npm install"
+  }
+}
